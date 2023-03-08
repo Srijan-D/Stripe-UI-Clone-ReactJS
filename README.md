@@ -18,7 +18,7 @@ CSS
 <h2 style="font-size: 24px;">Features</h2>
 This project includes the following features:
 
-Responsive design for desktop and mobile devices.
+Responsive design for desktop and mobile devices.<br>
 Custom components and styles, mimicking the STRIPE UI.
 
 Animated transitions and effects.
